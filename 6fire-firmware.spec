@@ -3,7 +3,7 @@
 Summary:	Firmware files for the Terratec DMX 6Fire usb sound card
 Name:		%{module}-firmware
 Version:	1.23.0.02
-Release:	2
+Release:	3
 Url:		http://ftp.terratec.de/Audio/DMX_6fire_USB/Updates
 Source0:	%{url}/DMX_6fire_USB_Setup_%{version}_XP_Vista_7.exe
 License:	Proprietary
